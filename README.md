@@ -5,3 +5,5 @@ Es una variante que se juega en un tablero con nueve casillas conectados vertica
 ## TECNOLOGÍAS :computer:
 - La aplicación ha sido creada en **JavaScript**.
 - Los estilos han sido creado es **CSS3** .
+
+### Nivel: básico :green_book:
